@@ -22,7 +22,8 @@ function PopularServicePage() {
               Dermal fillers help to diminish facial lines and restore volume and fullness in the face.
             </p>
           </div>
-          <div className="service-card">
+          <div className="service-card">git remote add origin https://github.com/your-username/your-repository-name.git
+
             <img src="https://api.nur.softifiedgroup.com/uploads/nur/static/images/botox.jpg" alt="Morpheus8" />
             <p className="service-title">Morpheus8</p>
             <p className="service-description">
